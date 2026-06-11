@@ -1,8 +1,9 @@
 
   # AI-Powered Resume Screening & Matching System
 
-**Techaxis Data Science Internship — Week 1 Proposal**
-**Intern:** Your Name
+**Techaxis Data Science Internship - Week 1 Proposal**
+
+**Intern:** Supriya Tandukar
 **Date:** June 2026
 
 ---
@@ -45,17 +46,17 @@ OpenAI API, FAISS, Streamlit, Git
 ---
 
 ## Weekly Plan
-- Week 1 — Dataset sourcing, EDA setup, GitHub repo
-- Week 2 — Data cleaning and text preprocessing
-- Week 3 — Feature engineering, baseline model
-- Week 4 — Model tuning, save model.pkl
-- Week 5 — LLM integration (candidate summary + missing skills)
-- Week 6 — RAG chatbot over resume corpus
-- Week 7 — Streamlit app + deploy to Streamlit Cloud
-- Week 8 — Final report and portfolio write-up
+- Week 1 - Dataset sourcing, EDA setup, GitHub repo
+- Week 2 - Data cleaning and text preprocessing
+- Week 3 - Feature engineering, baseline model
+- Week 4 - Model tuning, save model.pkl
+- Week 5 - LLM integration (candidate summary + missing skills)
+- Week 6 - RAG chatbot over resume corpus
+- Week 7 - Streamlit app + deploy to Streamlit Cloud
+- Week 8 - Final report and portfolio write-up
 
 ---
 
 ## Submission Links
-| Dataset | https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset |
-| Demo Video |  |
+ Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
+ Demo Video 
