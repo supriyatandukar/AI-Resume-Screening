@@ -28,7 +28,7 @@ A Streamlit web app that:
 ## Dataset
 - **Resumes:** Resume Dataset on Kaggle (2,400+ resumes, 25 job categories)
 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
-- **Job Descriptions:** 15 synthetic JDs generated using Claude
+- **Job Descriptions:** Synthetic JDs generated
 
 ---
 
