@@ -4,7 +4,7 @@
 **Techaxis Data Science Internship - Week 1 Proposal**
 
 **Intern:** Supriya Tandukar
-**Date:** June 2026
+**Date:** 11 June, 2026
 
 ---
 
@@ -28,7 +28,7 @@ A Streamlit web app that:
 ## Dataset
 - **Resumes:** Resume Dataset on Kaggle (2,400+ resumes, 25 job categories)
 https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
-- **Job Descriptions:** 15 synthetic JDs generated using ChatGPT
+- **Job Descriptions:** 15 synthetic JDs generated using Claude
 
 ---
 
