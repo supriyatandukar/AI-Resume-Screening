@@ -3,8 +3,8 @@
 
 **Techaxis Data Science Internship - Week 1 Proposal**
 
-**Intern:** Supriya Tandukar
-**Date:** 11 June, 2026
+- **Intern:** Supriya Tandukar
+- **Date:** 11 June, 2026
 
 ---
 
@@ -58,5 +58,5 @@ OpenAI API, FAISS, Streamlit, Git
 ---
 
 ## Submission Links
- Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
- Demo Video 
+- Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
+- Demo Video 
