@@ -59,4 +59,3 @@ OpenAI API, FAISS, Streamlit, Git
 
 ## Submission Links
 - Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
-- Demo Video 
