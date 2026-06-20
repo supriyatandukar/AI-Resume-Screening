@@ -58,4 +58,26 @@ OpenAI API, FAISS, Streamlit, Git
 ---
 
 ## Submission Links
-- Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset 
+- Dataset - https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+---
+
+## Tasks
+
+### ✅ Task 1 – Data Loading & Profiling
+- Loaded dataset using pandas
+- Explored shape, columns, and category distribution
+- Confirmed 0 missing values and 0 duplicates
+
+### ✅ Task 2 – Data Cleaning & EDA
+- Cleaned resume text (removed URLs, punctuation, extra whitespace)
+- Added `resume_length` feature
+- Univariate analysis: category distribution, resume length histogram
+- Bivariate analysis: resume length vs category (boxplot)
+- Saved cleaned dataset as `Resume_cleaned.csv`
+
+## Tools & Libraries
+- Python, Pandas, NumPy
+- Matplotlib, Seaborn
+- Missingno
+
